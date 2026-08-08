@@ -50,15 +50,15 @@ A task management project built using C++.
 🔗 [View Project](https://github.com/ahmed-osama25/To-Do-List)
 
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-osama25&show_icons=true" />
-
 
 ## 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/ahmed-osama-61767a394/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://discord.com/users/859961696670842880">
+    <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
