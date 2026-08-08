@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahmed Osama 👋
 
-<!--
-**ahmed-osama25/ahmed-osama25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I?
+I'm a beginner C++ developer interested in programming, problem solving, and building projects to improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 What I'm currently working on?
+- Learning C++ deeply
+- Practicing Problem Solving
+- Building small projects using C++
+- Learning OOP and Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools I use
+- C++
+- VS Code
+- Git & GitHub
+- Windows
+
+## 📫 How to reach me?
+- GitHub:https://github.com/ahmed-osama25
+- Discord: darwin.550
