@@ -10,7 +10,6 @@ I'm a beginner C++ developer interested in programming, problem solving, and bui
 - Learning OOP and Data Structures
 
 ## 🛠 Tools I use
-## 🛠 Tools I use
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
