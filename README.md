@@ -41,10 +41,8 @@ I'm a beginner C++ developer interested in programming, problem solving, and bui
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed--osama25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-osama25)
 
-<h1 align="center">Ahmed Osama</h1>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/ahmed-osama-61767a394/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
