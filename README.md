@@ -16,17 +16,23 @@ I'm a beginner C++ developer interested in programming, problem solving, and bui
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 💻 Skills
+
+- C++
+- Problem Solving
+- OOP
+- Data Structures
+- Git & GitHub
+
 ## 🚀 My Projects
 
-- 🧮 **Simple Calculator**
-  - A simple calculator built using C++.
+- 🧮 [Simple Calculator](link)
+- 🎯 [Guess The Number Game](link)
+- ✅ [To-Do List](link)
 
-- 🎯 **Guess The Number Game**
-  - A C++ game where the player tries to guess the random number.
-
-- ✅ **To-Do List**
-  - A simple task management project using C++.
-  
 ## 📫 How to reach me?
-- GitHub: [ahmed-osama25](https://github.com/ahmed-osama25)
-- Discord: `darwin.550`
+## 📫 How to reach me?
+
+[![Discord](https://img.shields.io/badge/Discord-darwin.550-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/859961696670842880)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ahmed--osama25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-osama25)
