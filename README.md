@@ -26,9 +26,14 @@ I'm a beginner C++ developer interested in programming, problem solving, and bui
 
 ## 🚀 My Projects
 
-- 🧮 [Simple Calculator](link)
-- 🎯 [Guess The Number Game](link)
-- ✅ [To-Do List](link)
+- 🎯 [Guess The Number Game](https://github.com/ahmed-osama25/Guess-The-Number)
+  - A C++ game where the player tries to guess the random number.
+
+- 🧮 [Simple Calculator](https://github.com/ahmed-osama25/Simple-Calculator)
+  - A simple calculator built using C++.
+
+- ✅ [To-Do List](https://github.com/ahmed-osama25/To-Do-List)
+  - A task management project built using C++.
 
 ## 📫 How to reach me?
 ## 📫 How to reach me?
