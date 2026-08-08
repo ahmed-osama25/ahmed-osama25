@@ -40,5 +40,3 @@ I'm a beginner C++ developer interested in programming, problem solving, and bui
 [![Discord](https://img.shields.io/badge/Discord-darwin.550-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/859961696670842880)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed--osama25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-osama25)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.lallto@gmail.com?subject=Hello%20Ahmed)
