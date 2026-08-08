@@ -13,7 +13,9 @@ I'm a beginner C++ developer interested in programming, problem solving, and bui
 - C++
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - VS Code
-- Git & GitHub
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- GitHub
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - Windows
 
 ## 📫 How to reach me?
