@@ -52,6 +52,17 @@ A task management project built using C++.
 
 
 
+
+### 🛒 Darwin Shop
+
+A console-based C++ shopping system for PC components.
+
+The project includes GPUs, CPUs, RAM, Keyboards, Microphones, SSDs, and Mice, with a shopping cart and checkout system.
+
+🔗 [View Project](https://github.com/ahmed-osama25/Darwin-Shop)
+
+
+
 ## 📫 Connect With Me
 
 <p>
