@@ -61,7 +61,12 @@ The project includes GPUs, CPUs, RAM, Keyboards, Microphones, SSDs, and Mice, wi
 
 🔗 [View Project](https://github.com/ahmed-osama25/Darwin-Shop)
 
+⛽ Gas Station
 
+A simple C++ console program that simulates a basic gas station.
+
+
+🔗 [View Project](https://github.com/ahmed-osama25/Gas-Station-Program)
 
 ## 📫 Connect With Me
 
