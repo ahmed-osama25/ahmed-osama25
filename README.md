@@ -30,43 +30,9 @@ I'm a C++ developer interested in programming, problem solving, and building pro
 
 ## 🚀 My Projects
 
-### 🎯 Guess The Number Game
+You can find all my projects and repositories here:
 
-A C++ game where the player tries to guess the random number.
-
-🔗 [View Project](https://github.com/ahmed-osama25/Guess-The-Number)
-
-
-### 🧮 Simple Calculator
-
-A simple calculator built using C++.
-
-🔗 [View Project](https://github.com/ahmed-osama25/Simple-Calculator)
-
-
-### ✅ To-Do List
-
-A task management project built using C++.
-
-🔗 [View Project](https://github.com/ahmed-osama25/To-Do-List)
-
-
-
-
-### 🛒 Darwin Shop
-
-A console-based C++ shopping system for PC components.
-
-The project includes GPUs, CPUs, RAM, Keyboards, Microphones, SSDs, and Mice, with a shopping cart and checkout system.
-
-🔗 [View Project](https://github.com/ahmed-osama25/Darwin-Shop)
-
-⛽ Gas Station
-
-A simple C++ console program that simulates a basic gas station.
-
-
-🔗 [View Project](https://github.com/ahmed-osama25/Gas-Station-Program)
+🔗 [View All Repositories](https://github.com/ahmed-osama25?tab=repositories)
 
 
 
