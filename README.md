@@ -8,7 +8,7 @@ I'm a C++ developer interested in programming, problem solving, and building pro
 - 🧠 Practicing Problem Solving & Algorithms
 - 📚 Learning OOP and Data Structures
 - 🐍 Planning to learn Python
-- 🌐 Planning to learn HTML
+- 🌐 Planning to learn CSS
 - 🚀 Building small projects to improve my programming skills
 
 ## 🛠 Tools & Technologies
@@ -26,6 +26,7 @@ I'm a C++ developer interested in programming, problem solving, and building pro
 - Problem Solving
 - Algorithms
 - Git & GitHub
+- HTML
 
 
 ## 🚀 My Projects
