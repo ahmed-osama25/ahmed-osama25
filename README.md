@@ -17,6 +17,10 @@ I'm a C++ developer interested in programming, problem solving, and building pro
   <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,html" />
+</p>
+
 
 ## 💻 Skills
 
